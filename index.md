@@ -13,7 +13,7 @@ Finishing an M.S. in Data Science at Willamette University (Aug 2025) and intern
 - **Interests:** Evolutionary ecology, genomics, and ethical AI advancement.  
 - **Goal:** 2025–26 role applying ML to large-scale biological or clinical datasets.
 
-[→ Resume](resume.html)    [→ Projects](projects.html)    [→ Contact](#contact)
+[→ Resume](resume.md)    [→ Projects](projects.md)    [→ Contact](#contact)
 
 ---
 
