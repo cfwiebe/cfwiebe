@@ -3,7 +3,7 @@ title: "Resume"
 layout: default
 ---
 
-[Download Full PDF](assets/Charlie_Wiebe_Resume.pdf){: .btn }
+[Download Full Resume (PDF)](assets/Charlie_Wiebe_Resume.pdf)
 
 ## Education
 **M.S. Data Science, Willamette University** — *Expected Aug 2025*  
